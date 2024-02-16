@@ -10,4 +10,4 @@ Usage for Linux:
 Usage for windows:
 1. Install rust
 2. Download or clone source code
-3. Type cargo run or build --release 
+3. Type '''cargo run''' or '''build --release '''
